@@ -7,12 +7,17 @@ Welcome to the To-Do List Application! This is a simple yet powerful application
 Features:
 
 Add, edit, and delete tasks
+
 Mark tasks as completed
+
 User authentication and authorization
+
 Responsive design for various devices
 
 Tech Stack:
 
 Node.js: JavaScript runtime for server-side programming
+
 Express: Web framework for Node.js
+
 MongoDB: NoSQL database for storing tasks and user data
